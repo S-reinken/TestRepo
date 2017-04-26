@@ -3,4 +3,8 @@ class SecondClass {
     public SecondClass() {
         thing = 0;
     }
+    public void do()
+    {
+        System.out.println("Hi.");
+    }
 }
