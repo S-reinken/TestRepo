@@ -3,6 +3,7 @@ class MainClass {
         System.out.println("Hello.");
         System.out.println("Marble.");
         SecondClass thing = new SecondClass();
+        thing.do();
     }
     public static void helper() {
         
