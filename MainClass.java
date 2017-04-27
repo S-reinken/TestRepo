@@ -3,4 +3,7 @@ class MainClass {
         System.out.println("Hello.");
         System.out.println("Marble.");
     }
+    public static void helper() {
+        
+    }
 }
